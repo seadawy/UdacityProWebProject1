@@ -14,6 +14,6 @@ If you are interested in testing your code as you go, you can use `tests.js` as 
 
 ## requier
 
-"body-parser": "^1.20.1",
-"cors": "^2.8.5",
-"express": "^4.18.2"
+body-parser
+cors
+express
