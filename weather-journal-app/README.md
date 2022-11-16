@@ -8,7 +8,7 @@ This project use asynchronous web app that uses Web API and user data to dynamic
 
 run `server.js` and start `localhost:6452`  
 
-## requier
+## Requier
 
 body-parser , cors ,express
 
