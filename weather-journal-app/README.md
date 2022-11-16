@@ -14,6 +14,4 @@ If you are interested in testing your code as you go, you can use `tests.js` as 
 
 ## requier
 
-body-parser
-cors
-express
+body-parser , cors ,express
